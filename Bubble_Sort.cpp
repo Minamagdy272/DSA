@@ -29,11 +29,6 @@ void Bubble (int arr[],int length , int&BigO)
 
 }
 
-
-
-
-
-
 int main()
 {
     int arr[] = {6,2,73,39,77,78,82,74,1};
@@ -45,5 +40,6 @@ int main()
         cout << arr [i]<<"  ";
     }
     cout << endl<<BigOoh;
+
 
 }
